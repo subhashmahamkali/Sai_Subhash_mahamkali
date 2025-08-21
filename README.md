@@ -25,9 +25,11 @@ I'm working in **quantitative genetics** and **population genomics** under the m
 
 #[GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhash_mahamkali&show_icons=true&hide_title=true)
 
-</ul>
+### GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=dsubhashmahamkali&theme=merko&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=dheerajanuvas07&theme=merko&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajanuvas07&theme=merko&hide_border=false&layout=compact)
 
-&nbsp;![](https://komarev.com/ghpvc/?username=ashishps1&color=brightgreen)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishps1&show_icons=true&rank_icon=github&locale=en" alt="ashishps1" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishps1&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
-</p>
+---
+
+[![](https://visitcount.itsvg.in/api?id=dheerajanuvas07&icon=7&color=11)](https://visitcount.itsvg.in)
