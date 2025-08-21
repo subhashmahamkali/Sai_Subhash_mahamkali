@@ -26,10 +26,10 @@ I'm working in **quantitative genetics** and **population genomics** under the m
 #[GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhash_mahamkali&show_icons=true&hide_title=true)
 
 ### GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=dsubhashmahamkali&theme=merko&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=dheerajanuvas07&theme=merko&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajanuvas07&theme=merko&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=subhashmahamkali&theme=merko&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=subhashmahamkali&theme=merko&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=subhashmahamkali&theme=merko&hide_border=false&layout=compact)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=dheerajanuvas07&icon=7&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=subhashmahamkali&icon=7&color=11)](https://visitcount.itsvg.in)
