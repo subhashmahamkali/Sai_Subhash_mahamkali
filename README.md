@@ -2,7 +2,7 @@
 ## PhD Student in Complex Biosystems at University of Nebraska-Lincoln
 ### Focused on Quantitative Genetics and Population Genomics in maize and sorghum
 
-#!Profile Image](https://github.com/.png)
+#can add images here and may be videos
 
 I'm working in **quantitative genetics** and **population genomics** under the mentorship of **Dr. Jinliang Yang** at the University of Nebraska-Lincoln (UNL). My research focuses on nitrogen use efficiency (NUE), particularly in **sorghum genetics**.
 
