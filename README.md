@@ -23,7 +23,5 @@ I'm working in **quantitative genetics** and **population genomics** under the m
 - LinkedIn: [Sai Subhash Mahamkali LinkedIn](https://www.linkedin.com/in/subhashmahamkali/)
 - Email: [smahamkalivenkatas2@huskers.unl.edu](mailto:smahamkalivenkatas2@huskers.unl.edu)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhashmahamkali&show_icons=true&hide_title=true&hide=stars,prs,issues,contribs&theme=tokyonight&hide_border=true&rank_icon=github)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=subhashmahamkali&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
+![Metrics](https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg)
 
