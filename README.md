@@ -2,16 +2,20 @@
 ## PhD Student in Complex Biosystems at University of Nebraska-Lincoln
 ### Focused on Quantitative Genetics and Population Genomics in maize and sorghum
 
-I'm working in **quantitative genetics** and **population genomics** under the mentorship of **Dr. Jinliang Yang** at the University of Nebraska-Lincoln (UNL). My research focuses on nitrogen use efficiency (NUE), particularly in **sorghum genetics**.
+I’m a plant genomics researcher driven by curiosity about how small genetic changes can transform the way plants grow and adapt. My work combines quantitative, and population genetics, bioinformatics, and data science to improve crop performance and sustainability. With a strong agronomic background and skills in R, Python, and high performance computing, I connect field data with computational analysis to turn complex datasets into practical solutions for agriculture.
 
 ##🚀Key Projects
-#-[**Sorghum Quantitative Genetics Research**](https://github.com/waqarali/sorghum_quantitative_genetics): Exploring genetic variation in sorghum for improving drought tolerance and biomass yield.
-#-[**Genomic Selection for Sorghum Improvement**](https://github.com/waqarali/genomic_selection_sorghum): Developing genomic models to predict yield and disease resistance using high-throughput genomic data.
+#-[**Sorghum adaptation to various nitrogen-response**]: Exploring genetic variation in sorghum for various nitrogen adaptability during evolution.
+Integrated genotype (WGS) and phenotype (field/greenhouse) data across 689 genotypes to dissect nitrogen-use traits.
+Delivered significant candidate genes; produced publication-ready figures and documented code for reuse.
+#-[**Spatial transcriptomics in soybean**]: Single-cell genomics: analysed images of cell wall and nuceli to know the sub-cellular localization of important transcripts.
+#-[**Arabidopsis Aluminum Tolerance**]: Reverse genetics, mutants, RNA-seq: Linked root traits to genomic regions; validated key candidates via reverse genetics and expression analysis.
 
 ## 🛠️ Skills & Technologies
 - ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-- **Tools**: SLURM, Genomic Selection, Genome Wide Association Studies(GWAS), Whole Genome Sequencing (WGS
+- ![Bash](https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29#/media/File:Gnu-bash-logo.svg)
+- **Tools**: SLURM, Genomic Selection, Genome Wide Association Studies(GWAS), GxE interaction, variant calling, Balancing selection (B2/BalLeRMix), Positive selection (Fst, XP-CLR), Negative selection (zero shot score (Plant CAD)) deleterious mutation prediction) RNA-seq, single cell genomics
 
 ## 📚 Publications
 <!-- - **Paper 1 Title** – *Journal of Quantitative Genetics* (2025) -->
